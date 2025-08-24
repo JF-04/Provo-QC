@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Análisis H30", layout="wide")
 
-st.title("📊 Análisis H30 PIUTERRA")
+st.title("📊 Análisis H30")
 
 # ==================================
 # ENTRADAS
